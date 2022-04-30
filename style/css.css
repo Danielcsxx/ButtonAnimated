@@ -3,5 +3,15 @@
     padding: 0;
     box-sizing: border-box;
     font-size: 62.5%;
+    font-family: 'Permanent Marker', cursive;
+
 }
 
+.BackGround {
+    min-height: 100vh;
+    min-width: 100vw;
+    background-color: rgb(1, 0, 19);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
